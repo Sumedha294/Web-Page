@@ -25,6 +25,7 @@ margin: auto;
    background:orange;
     margin-top: 40px; top: 0px;
     position: fixed;
+    margin-left: 200px;
 }
 .link{
 float: left;
