@@ -1,0 +1,47 @@
+#img1{
+ border-radius: 100%;
+    height: 300px;
+   
+}
+body{
+    text-align: center;
+}
+#me{
+    background-color: aqua;
+    height: 500px;
+    z-index: 9;
+    margin-top: 30px;
+}
+.line{
+    height:5px;
+        width:50px;
+    background-color: black;
+margin: auto;
+}
+.menu{
+    font-family: serif;
+    cursor: pointer;
+    z-index: 10;
+   background:orange;
+    margin-top: 40px; top: 0px;
+    position: fixed;
+}
+.link{
+float: left;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px; 
+    font-family: fantasy;
+    font-size: 20px;
+
+
+}
+.link:hover{
+    font-size:30px;
+}
+#C{
+    background-color: blueviolet;
+}
+#contact{
+    background-color: chartreuse;
+}
